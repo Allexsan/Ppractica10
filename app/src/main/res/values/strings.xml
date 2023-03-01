@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Будильник</string>
+    <string name="some_id">07:30</string>
+</resources>
